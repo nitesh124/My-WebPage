@@ -1,0 +1,29 @@
+{ padding: 0; margin: 0; } canvas { background: #eee; display: block; margin: 0 auto; }
+body{
+background: #eacec7;
+background: linear-gradient(to right, #eef2f3, #eacec7);
+background: linear-gradient(to right, #eef2f3, #eacec7);
+}
+h1{
+   color: #684447;
+  text-align: center;
+  font-weight: lighter;
+  font-family: 'Times new roam', cursive;
+  text-transform: uppercase; 
+}
+footer {
+  text-align: center;
+    background: #eacec7;
+    color: #867d79;
+}
+a {
+    color: #867d79;
+     background: #eacec7;
+    font-family: 'Times new roam', sans-serif;
+}
+.nav{
+    text-align: center;
+     background: #eacec7;
+    color: #797979;
+    font-family: 'Times new roam', cursive;
+}

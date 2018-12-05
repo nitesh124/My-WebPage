@@ -1,0 +1,112 @@
+body{
+  background: #eacec7;
+background: linear-gradient(to right, #eef2f3, #eacec7);
+background: linear-gradient(to right, #eef2f3, #eacec7);
+ 
+margin: 0px;
+}
+ 
+td{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 70px;
+  font-family: 'times new roam', sans-serif;
+  font-weight: lighter;
+  color: #4c5a66
+}
+h1{
+    color: #684447;
+  text-align: center;
+  font-weight: lighter;
+  font-family: 'Times new roam', cursive;
+  text-transform: uppercase;
+}
+.content{
+  margin: 20px auto;
+  max-width: 400px;
+}
+.row1 td, .row2 td{
+  border-bottom: 4px solid #4c5a66;
+}
+.column1, .column2{
+  border-right: 4px solid #4c5a66;
+}
+table{
+  margin: 60px auto;
+}
+ 
+.p1{
+font-family: 'times new roam', monospace;
+  float: left;
+  font-weight: normal;
+    color: #867d79;
+}
+.p2{
+font-family: 'times new roam', monospace;
+  float: right;
+  font-weight: normal;
+    color: #867d79;
+}
+.draw{
+    font-family: 'times new roam', monospace;
+  float: center;
+  font-weight: normal;
+    color: #867d79;
+}
+ 
+.stripe{
+  text-align: center;
+  margin-top: 10px;
+   
+  text-transform: uppercase;
+  background:#eacec7d9;
+  height: 80px;
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+ 
+ 
+ 
+}
+.xplayer{
+ font-family: 'Times new roam', monospace;
+  font-weight: normal;
+  float: left;
+    color: #867d79
+}
+.oplayer{
+ font-family: 'Times new roam', monospace;
+  font-weight: normal;
+  float: right;
+     color: #867d79
+}
+.scores{
+   font-family: 'Times new roam', monospace;
+  text-align: center;
+  background: #eacec7;
+  height: 80px;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+    color: #3e3a38
+}
+ 
+.win{
+  color: #684447;
+}
+.font_size{
+  font-size: 40px;
+  color: #867d79;
+}
+.links a{
+    color: #797979;
+}
+.links{
+  text-align:center;
+    color: #797979;
+    font-family: 'Times new roam', cursive;
+  }
+.nav{
+    background: #eacec7d9;
+}

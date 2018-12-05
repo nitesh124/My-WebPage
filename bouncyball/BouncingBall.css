@@ -1,0 +1,21 @@
+body{
+    background: #eacec7;
+background: linear-gradient(to right, #eef2f3, #eacec7);
+background: linear-gradient(to right, #eef2f3, #eacec7);
+    margin: 0px;
+ 
+}
+footer {
+  text-align: center;
+    background: #eacec7;
+    color: #867d79;
+}
+a {
+    color: #867d79;
+    font-family: 'Times new roam', sans-serif;
+}
+.nav{
+    text-align: center;
+    color: #797979;
+    font-family: 'Times new roam', cursive;
+}
